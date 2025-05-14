@@ -7,7 +7,6 @@ This repository contains various course projects covering web development, game 
 - Video Game Center Station Website
 - Quick Write Web Game
 - Python Django Restaurant Website Project
-- Photo Galleries Website
 - Laravel Business Website Project
 
 ## Getting Started
